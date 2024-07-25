@@ -1,11 +1,21 @@
-👋 Hi, I’m @PalkiDB1
+# Hi there 👋
 
-👀 I’m interested in Web Development, Data Analysis, and Software Development Engineering (SDE).
+Welcome to my GitHub profile!
 
-🌱 I’m currently learning and improving my skills in the MERN stack, specifically focusing on Web Development, Data Analysis, and building robust software solutions. I'm also strengthening my understanding and logic-building in C++.
+## About Me
 
-💞️ I’m looking to collaborate on innovative web development projects, data analysis initiatives, and software development challenges. I'm always eager to work with like-minded individuals on impactful projects.
+I am a CSE student with a passion for open-source projects and collaboration.
 
-😄 Pronouns: She/Her
+## Skills
 
-⚡ Fun fact: I won the 1st prize at the CMRIT inter-departmental music competition and have a passion for music, which fuels my creativity in coding!
+- **Programming Languages**: Python, JavaScript, Java, C
+- **Web Development**: HTML, CSS, Node.js
+- **Databases**: MySQLL, MongoDB,
+
+
+## Contact Me
+
+- [LinkedIn](www.linkedin.com/in/palki-devi-barman)
+
+
+
