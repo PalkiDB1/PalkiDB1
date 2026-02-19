@@ -1,16 +1,24 @@
 # Hi there 👋
 
-Welcome to my GitHub profile!
+🎯 Associate Software Engineer at Accenture
+📊 Aspiring Data Analyst | Power BI | SQL | Data Storytelling
 
 ## About Me
 
-I am a CSE student with a passion for open-source projects and collaboration.
+I am a software engineer transitioning into Data Analytics, with a strong interest in transforming raw data into meaningful business insights.
+
+I enjoy working on:
+
+1.Data analysis & visualization
+2.Business problem solving
+3.KPI tracking & performance dashboards
+4.Insight-driven storytelling
 
 ## Skills
 
-- **Programming Languages**: Python, JavaScript, Java, C
-- **Web Development**: HTML, CSS, Node.js
-- **Databases**: MySQLL, MongoDB,
+- **Data & Analytics**: Power BI, DAX, SQL, MS Excel, Data Modeling, Data Cleaning & Transformation
+- **Programming**: Python HTML, CSS
+- **Other tools**: Git&GitHub, VScode, MS Excel, Figma
 
 
 ## Contact Me
