@@ -5,7 +5,7 @@
 
 ## About Me
 
-I am a software engineer transitioning into Data Analytics, with a strong interest in transforming raw data into meaningful business insights.
+Software Engineer leveraging data analytics to turn raw data into actionable insights and smarter business decisions.
 
 I enjoy working on:
 
