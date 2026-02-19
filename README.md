@@ -1,6 +1,6 @@
 # Hi there 👋
 
-🎯 Associate Software Engineer at Accenture
+🎯 Associate Software Engineer at Accenture  
 📊 Aspiring Data Analyst | Power BI | SQL | Data Storytelling
 
 ## About Me
@@ -9,10 +9,10 @@ I am a software engineer transitioning into Data Analytics, with a strong intere
 
 I enjoy working on:
 
-1.Data analysis & visualization
-2.Business problem solving
-3.KPI tracking & performance dashboards
-4.Insight-driven storytelling
+1.Data analysis & visualization  
+2.Business problem solving  
+3.KPI tracking & performance dashboards  
+4.Insight-driven storytelling  
 
 ## Skills
 
